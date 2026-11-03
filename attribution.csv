@@ -1,0 +1,38 @@
+scene_id,source_id,source_artwork,present,scene_x,scene_y,scene_w,scene_h,source_x,source_y,source_w,source_h,source_file
+scene0000,art0000,The Scream,true,0,0,350,450,0,0,960,582,sources/art0000_800px-Edvard_Munch_2C_1893_2C_The_Scream_2C_oil_2C_tempera_a.jpg
+scene0000,art0001,Girl with a Pearl Earring,false,,,,,0,0,960,1137,sources/art0001_800px-1665_Girl_with_a_Pearl_Earring.jpg
+scene0000,art0002,Arnolfini Portrait,true,395,395,260,360,75,0,797,1218,sources/art0002_800px-Van_Eyck_-_Arnolfini_Portrait.jpg
+scene0000,art0003,The Great Wave off Kanagawa,true,700,80,324,680,0,0,1280,689,sources/art0003_1280px-Tsunami_by_hokusai_19th_century.jpg
+scene0001,art0004,Bedroom in Arles,true,0,350,480,674,0,0,960,660,sources/art0004_1280px-The_Bedroom_-_Vincent_van_Gogh_-_Google_Art_Project.jpg
+scene0001,art0005,The Kiss,true,440,340,220,580,112,0,750,958,sources/art0005_1200px-Klimt_-_The_Kiss.jpg
+scene0001,art0006,The Starry Night,true,0,0,1024,400,0,0,1280,644,sources/art0006_1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
+scene0001,art0007,The Creation of Adam,false,,,,,0,0,960,698,sources/art0007_1280px-Creation_of_Adam.jpg
+scene0002,art0008,Le Moulin de la Galette,true,0,0,380,520,0,0,960,628,sources/art0008_1280px-Pierre-Auguste_Renoir_-_Dance_at_Le_Moulin_de_la_Gale.jpg
+scene0002,art0009,The Birth of Venus,true,500,350,200,250,112,47,732,512,sources/art0009_1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art.jpg
+scene0002,art0010,The Persistence of Memory,false,,,,,0,0,371,268,sources/art0010_The_Persistence_of_Memory.jpg
+scene0002,art0003,The Great Wave off Kanagawa,true,580,30,444,550,0,0,1280,689,sources/art0003_1280px-Tsunami_by_hokusai_19th_century.jpg
+scene0003,art0011,Nighthawks,true,0,180,420,720,0,0,6000,2718,sources/art0011_Nighthawks_by_Edward_Hopper_1942.jpg
+scene0003,art0012,Guernica,false,,,,,0,0,350,480,sources/art0012_Picasso_guernica.jpg
+scene0003,art0013,No. 5 1948,false,,,,,0,0,960,770,sources/art0013_No__5_1948.jpg
+scene0003,art0014,Campbell's Soup Cans,true,790,0,234,1024,0,0,960,558,sources/art0014_Campbells_Soup_Cans.jpg
+scene0004,art0015,Mona Lisa,true,280,430,420,594,169,112,628,1258,sources/art0015_800px-Mona_Lisa_2C_by_Leonardo_da_Vinci_2C_from_C2RMF_retouc.jpg
+scene0004,art0016,The Hay Wain,true,0,230,520,520,0,0,960,582,sources/art0016_1280px-John_Constable_-_The_Hay_Wain__281821_29.jpg
+scene0004,art0017,The Battle of Alexander at Issus,false,,,,,0,0,960,1266,sources/art0017_1280px-Albrecht_Altdorfer_-_The_Battle_of_Alexander_at_Issus.jpg
+scene0004,art0014,Campbell's Soup Cans,true,0,920,1024,104,0,0,960,558,sources/art0014_Campbells_Soup_Cans.jpg
+scene0005,art0018,Composition II in Red Blue and Yellow,true,0,540,1024,484,0,0,960,973,sources/art0018_800px-Mondrian_Composition_II_in_Red_2C_Blue_2C_and_Yellow.jpg
+scene0005,art0019,La Grande Odalisque,true,30,430,430,370,41,32,441,348,sources/art0019_1280px-Jean-Auguste-Dominique_Ingres_2C_La_Grande_Odalisque.jpg
+scene0005,art0020,Analytic Cubism (Ma Jolie),true,330,180,320,520,0,0,4500,4661,sources/art0020_Les_Demoiselles_d_27Avignon.jpg
+scene0005,art0021,Moulin Rouge La Goulue,true,60,70,260,260,0,0,576,939,sources/art0021_800px-Toulouse-Lautrec_-_Moulin_Rouge_-_La_Goulue.jpg
+scene0006,art0006,The Starry Night,true,0,0,1024,420,0,0,1280,644,sources/art0006_1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
+scene0006,art0022,The Anatomy Lesson of Dr. Nicolaes Tulp,true,140,80,720,370,75,0,806,600,sources/art0022_1280px-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg
+scene0006,art0023,American Gothic,true,180,530,620,494,94,0,768,1074,sources/art0023_800px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg
+scene0006,art0011,Nighthawks,true,240,730,520,294,0,0,6000,2718,sources/art0011_Nighthawks_by_Edward_Hopper_1942.jpg
+scene0007,art0024,The Garden of Earthly Delights (left and right panels),true,0,0,1024,1024,0,0,1280,729,sources/art0024_1280px-The_Garden_of_earthly_delights.jpg
+scene0007,art0025,Peasant Wedding / Peasant Dance,false,,,,,0,0,960,866,sources/art0025_1280px-Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_A.jpg
+scene0008,art0026,Drowning Girl (or Whaam!),false,,,,,0,0,314,318,sources/art0026_Roy_Lichtenstein_Drowning_Girl.jpg
+scene0008,art0027,Le Déjeuner sur l'herbe,true,0,680,520,344,0,0,960,619,sources/art0027_1280px-Edouard_Manet_-_Le_D_C3_A9jeuner_sur_l_27herbe_-_Goog.jpg
+scene0008,art0003,The Great Wave off Kanagawa,true,0,40,660,620,0,0,1280,689,sources/art0003_1280px-Tsunami_by_hokusai_19th_century.jpg
+scene0008,art0028,Christ Pantocrator mosaic,true,740,80,220,220,169,0,628,813,sources/art0028_800px-Hagia_Sophia_Christ_mosaic_closeup.jpg
+scene0009,art0029,The Last Supper,true,0,180,420,720,100,84,1062,550,sources/art0029_1280px-_C3_9Altima_Cena_-_Da_Vinci_5.jpg
+scene0009,art0030,The Last Judgment,true,640,180,384,720,0,0,660,714,sources/art0030_800px-Michelangelo_-_Fresco_of_the_Last_Judgement.jpg
+scene0009,art0031,Assumption of the Virgin (Correggio) / Triumph in Baroque ceiling,true,180,0,640,370,0,0,960,330,sources/art0031_800px-Correggio_assumption.jpg
